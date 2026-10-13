@@ -6,7 +6,7 @@
 
 ## About me
 
-I'm a web developer with 3+ years of hands-on experience building WordPress websites for clients across the globe. I've successfully delivered 10+ international projects, ranging from custom theme builds to complex plugin integrations.
+I'm a web developer with 3+ years of hands-on experience building WordPress websites for clients across the globe. I've successfully delivered 12+ international projects, ranging from custom theme builds to complex plugin integrations.
 
 Currently leveling up into **Full Stack Development**, because I believe great developers don't just build things, they solve the right problems in the best possible way.
 
@@ -20,7 +20,7 @@ I'm deeply enthusiastic about learning, always drawn to new technologies and AI,
 `WordPress (Advanced)` `Theme Customization` `ACF` `Crocoblock`
 
 **Frontend**
-`HTML` `CSS` `JavaScript` `React (learning)` `Tailwind CSS (learning)`
+`HTML` `CSS` `JavaScript` `React (learning)` `Tailwind CSS`
 
 **Backend**
 `Node.js` `Express.js`
